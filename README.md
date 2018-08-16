@@ -1,2 +1,1 @@
-# abaqus
-Collection of experiences with Abaqus and geotechnical modeling
+# Personal web site of Hilde Aas Nøst
